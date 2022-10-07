@@ -1,7 +1,6 @@
 # Trade-and-Ahead
 Unsupervised Learning: Trade&Ahead
 
-Marks: 60
 
 Context
 
