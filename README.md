@@ -1,26 +1,28 @@
 # Trade-and-Ahead
-Unsupervised Learning: Trade&Ahead
+In this project, using unsupervised learning, I Analyze the stocks data, grouping the stocks based on the attributes provided, and share insights about the characteristics of each group.
+
+## Skills and tools used
+- Exploratory Data analysis 
+- Data Preprocessing
+- Kmeans clustering
+- Hierarchical clustering
+- Cluster profiling
 
 
-Context
+## Libraries used
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Plotly
+- Scikit-learn
 
-The stock market has consistently proven to be a good place to invest in and save for the future. There are a lot of compelling reasons to invest in stocks. It can help in fighting inflation, create wealth, and also provides some tax benefits. Good steady returns on investments over a long period of time can also grow a lot more than seems possible. Also, thanks to the power of compound interest, the earlier one starts investing, the larger the corpus one can have for retirement. Overall, investing in stocks can help meet life's financial aspirations.
 
-It is important to maintain a diversified portfolio when investing in stocks in order to maximise earnings under any market condition. Having a diversified portfolio tends to yield higher returns and face lower risk by tempering potential losses when the market is down. It is often easy to get lost in a sea of financial metrics to analyze while determining the worth of a stock, and doing the same for a multitude of stocks to identify the right picks for an individual can be a tedious task. By doing a cluster analysis, one can identify stocks that exhibit similar characteristics and ones which exhibit minimum correlation. This will help investors better analyze stocks across different market segments and help protect against risks that could make the portfolio vulnerable to losses.
+### About Me
+I'm Seyi, and there’s absolutely nothing I love more than using data driven strategies for problem-solving in businesses! 
 
-Objective
+ I’m a skilled Data scientist and analyst passionate about transforming, exploring and extracting useful and actionable insights from data,creating compelling visuals and reports, and bringing the data to life through storytelling that will inspire the change that needs to happen for businesses to maximize their success.
 
-Trade&Ahead is a financial consultancy firm who provide their customers with personalized investment strategies. They have hired you as a Data Scientist and provided you with data comprising stock price and some financial indicators for a few companies listed under the New York Stock Exchange. They have assigned you the tasks of analyzing the data, grouping the stocks based on the attributes provided, and sharing insights about the characteristics of each group.
-
-Data Dictionary
-
-Ticker Symbol: An abbreviation used to uniquely identify publicly traded shares of a particular stock on a particular stock market
-Company: Name of the company
-GICS Sector: The specific economic sector assigned to a company by the Global Industry Classification Standard (GICS) that best defines its business operations
-GICS Sub Industry: The specific sub-industry group assigned to a company by the Global Industry Classification Standard (GICS) that best defines its business operations
-Current Price: Current stock price in dollars
-Price Change: Percentage change in the stock price in 13 weeks
-Volatility: Standard deviation of the stock price over the past 13 weeks
 ROE: A measure of financial performance calculated by dividing net income by shareholders' equity (shareholders' equity is equal to a company's assets minus its debt)
 Cash Ratio: The ratio of a company's total reserves of cash and cash equivalents to its total current liabilities
 Net Cash Flow: The difference between a company's cash inflows and outflows (in dollars)
